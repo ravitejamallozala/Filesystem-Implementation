@@ -1,0 +1,2 @@
+# Filesystem-Implementation
+Instagram clone:  purpose: managing pictures(uploading &amp; downloading) along with their comments given by other users.....  Basic Information: developed using C  capacity: 100mb....(expandable to even GBs of data) optimizations: bit-vector implementation for effective use of memory   User can upload, download and can delete the data also he can keep track of comments made by other users
